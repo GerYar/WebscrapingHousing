@@ -14,7 +14,7 @@ I have been seeing memes about how it is becoming more difficult to buy houses c
 
 The project is divided into several parts and this scrip consists only of capturing information from the network about houses for sale in the state of Queretaro, this information will have to be cleaned, analyzed and prepared to train a machine learning model later.
 
-* [Scrip](https://github.com/GerYar/WebscrapingHousing/blob/main/Housing.ipynb)
+* [Script](https://github.com/GerYar/WebscrapingHousing/blob/main/Housing.ipynb)
 
 
 Note: In the AI Academy of which I was part, a similar project was carried out as a team, but on that occasion we obtained the information from kaggle. Now the use of libraries such as Selenium and Beautiful Soup is being considered to capture information.
